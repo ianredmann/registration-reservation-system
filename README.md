@@ -34,10 +34,10 @@ Student Developers:
 3. [Corbin Bostian](https://www.linkedin.com/in/corbin-bostian-62b512232/) ('25)
 4. [Micah Terry](https://www.linkedin.com/in/micah-terry-00582524a/) ('25)
 5. [Samuel Spraggins](https://www.linkedin.com/in/samuel-spraggins-679192233/) ('25)
-6. [Ian Redman](https://www.linkedin.com/in/ian-redman-1288b4263/)
-7. [Anthony Paculba](https://www.linkedin.com/in/anthony-paculba-528971328/)
-8. [Evan Burroughs](https://www.linkedin.com/in/evan-burroughs-131940324/)
-9. [Anderson Jones]
+6. [Ian Redman](https://www.linkedin.com/in/ian-redman-1288b4263/)('26)
+7. [Anthony Paculba](https://www.linkedin.com/in/anthony-paculba-528971328/)('26)
+8. [Evan Burroughs](https://www.linkedin.com/in/evan-burroughs-131940324/)('26)
+9. Anderson Jones ('26)
 
 ## Project Context
 This project was originally developed as a collaborative team effort. This repository represents my personal version of the project, including documentation and my individual contributions. My contributions include refactoring the original codebase into modular, maintainable components and developing an administrative interface for managing the system.
